@@ -1,5 +1,5 @@
 title: Habib Bashir Lawal
-#logo: /pictures/IMG_E1126
-#Description: Data Scientist
-#show_download: true
-Theme: jekyll-theme-minimal
+description: B.Eng Electrical, Data Scientist.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-time-machine
