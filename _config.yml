@@ -1,6 +1,5 @@
 title: Habib Bashir Lawal
-logo: /pictures/IMG_E1126
-Description: Data Scientist
-show_download: true
+#logo: /pictures/IMG_E1126
+#Description: Data Scientist
+#show_download: true
 Theme: jekyll-theme-minimal
-remote_theme: jekyll-theme-minimal
