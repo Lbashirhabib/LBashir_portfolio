@@ -1,14 +1,14 @@
-# Electrical Engineer | Data Scientist | Habib Bashir Lawal
+# Habib Bashir Lawal
 
 ## Overview
 
-Welcome to the portfolio of Habib Bashir Lawal, a Data Scientist with a B.Eng in Electrical Engineering and a focus on Data Science. This repository showcases my projects, skills, and experiences in the field of data science.
+Welcome to the portfolio of Habib Bashir Lawal, a Data Scientist with a B.Eng in Electrical Engineering and a focus on Harnessing Data to Power the Future of Electrical Engineering. Below is the showcases of my projects, skills, and experiences in the field of Electrical Engineering and data science.
 
 ## Education
 
-- **B.Eng in Electrical Engineering**
+- **B.Eng Electrical (in view)**
 - **Diploma in Computer Science**
-- **Specialization in Data Science**
+- **Certification on Data Science**
 
 ## Work Experience
 
@@ -24,28 +24,29 @@ Welcome to the portfolio of Habib Bashir Lawal, a Data Scientist with a B.Eng in
 
 ## Skills
 
+- Ms Office
 - Python, SQL
-- Machine Learning, Data Visualization
-- Data Analysis, Statistical Modeling
+- Machine Learning
+- Data Analysis and Visualization
 
 ## Certifications
 
-- Certified Data Scientist (CDS)
-- Data Science Specialization (Udemy)
+- Computer Science (Harvard University CS50)
+- Data Science Certification (3MTT NiTDA/FG)
+- Associate Data Scientist (DataCamp Certification)
 
 ## Projects
 
-### Free Energy Generator
-- This project is maintained by L Bashir Habib
+### Free Energy Generator (in View)
+- The project is maintained by L Bashir Habib
 
 
 ## Volunteer Experience
 
-- Data Analyst Volunteer at Palladium (2021-2024)
 
 ## Future Goals
 
-- To specialize in machine learning algorithms for healthcare applications.
+- To specialize in machine learning algorithms for different applications.
 
 ## Contact
 
